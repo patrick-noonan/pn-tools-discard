@@ -1,25 +1,25 @@
 {
   "name": "@<scope>/pn-tools-discard",
   "version": "0.1.0",
-  "description": "A source xPack with <your-description-here>",
+  "description": "A source xPack with the purpose of seeing how to do things with xPack",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<user-id>/pn-tools-discard.git"
+    "url": "https://github.com/patrick-noonan/pn-tools-discard.git"
   },
   "bugs": {
-    "url": "https://github.com/<user-id>/pn-tools-discard/issues/"
+    "url": "https://github.com/patrick-noonan/pn-tools-discard/issues/"
   },
-  "homepage": "https://github.com/<user-id>/pn-tools-discard/",
+  "homepage": "https://github.com/patrick-noonan/pn-tools-discard/",
   "keywords": [
     "xpack"
   ],
   "author": {
-    "name": "<author-name>",
-    "email": "<author-email>",
+    "name": "Patrick Noonan",
+    "email": "Patrick.Noonan@dark-knight.eu",
     "url": "<author-url>"
   },
   "license": "MIT",
